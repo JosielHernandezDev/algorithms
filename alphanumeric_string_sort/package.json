@@ -1,0 +1,15 @@
+{
+  "name": "alphanumeric_string_sort",
+  "version": "1.0.0",
+  "description": "Daily Algorithm Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --watchAll"
+  },
+  "author": "Josiel Hernandez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
