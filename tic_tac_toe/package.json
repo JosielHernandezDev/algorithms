@@ -1,0 +1,12 @@
+{
+  "name": "tic_tac_toe",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe Game",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "jest"
+  },
+  "author": "Josiel Hernandez",
+  "license": "ISC"
+}
