@@ -9,6 +9,7 @@ function findTriangleType(leg1, leg2, hypo) {
   }
 
   return "This is an Obtuse Triangle";
+  
 }
 
 console.log(findTriangleType(17, 13, 23)); // This is a Obtuse Triangle
