@@ -1,0 +1,12 @@
+{
+  "name": "number_to_english",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Josiel Hernandez",
+  "license": "ISC"
+}
